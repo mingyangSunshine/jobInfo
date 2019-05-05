@@ -29,16 +29,14 @@
 [实习僧](shixiseng.com/)\
 [趣实习网](qushixi.net/)
 [猎聘网](https://campus.liepin.com/)
-<detail><summary>外资银行投行</summary>
 渣打银行 \
 [汇丰银行](https://www.about.hsbc.com.cn/zh-cn/careers)\
 [花旗银行](https://www.citi.com.cn/html/cn/HR/Current_Openings.html)\
 摩根士丹利\
 [J.P. Morgan](https://careers.jpmorgan.com/cn/en/students)\
 [高盛](https://www.goldmansachs.com/careers/index.html)
-</detail>
 
 
 ## DIGEST
 - [ 30-Apr ](https://github.com/mingyangSunshine/jobInfo/issues/1)
-- [ 3-May ]()
+- [ 5-May ](https://github.com/mingyangSunshine/jobInfo/issues/2)
