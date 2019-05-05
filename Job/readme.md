@@ -27,8 +27,8 @@
 [应届毕业生求职网](http://www.yjbys.com/)\
 [应届生bbs](bbs.yingjiesheng.com/)\
 [实习僧](shixiseng.com/)\
-[趣实习网](qushixi.net/)
-[猎聘网](https://campus.liepin.com/)
+[趣实习网](qushixi.net/) \
+[猎聘网](https://campus.liepin.com/) \
 渣打银行 \
 [汇丰银行](https://www.about.hsbc.com.cn/zh-cn/careers)\
 [花旗银行](https://www.citi.com.cn/html/cn/HR/Current_Openings.html)\
