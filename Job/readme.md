@@ -40,3 +40,4 @@
 ## DIGEST
 - [ 30-Apr ](https://github.com/mingyangSunshine/jobInfo/issues/1)
 - [ 5-May ](https://github.com/mingyangSunshine/jobInfo/issues/2)
+- [ 7-May ](https://github.com/mingyangSunshine/jobInfo/issues/3)
