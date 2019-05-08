@@ -7,7 +7,7 @@
 
 ## digest
 ``` markdown
-# digest today 😋 30-Apr
+# digest today 😋 8-May
 if interested, tag it for later use.
 - [ ] XXX
 ```
