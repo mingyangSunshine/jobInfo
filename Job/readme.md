@@ -46,3 +46,5 @@
 - [ 15-May ](https://github.com/mingyangSunshine/jobInfo/issues/6)
 - [ 16-May ](https://github.com/mingyangSunshine/jobInfo/issues/7)
 - [ 21-May ](https://github.com/mingyangSunshine/jobInfo/issues/8)
+- [ 28-May ](https://github.com/mingyangSunshine/jobInfo/issues/9)
+- [ 30-May ](https://github.com/mingyangSunshine/jobInfo/issues/10)
