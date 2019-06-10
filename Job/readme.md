@@ -49,3 +49,4 @@
 - [ 28-May ](https://github.com/mingyangSunshine/jobInfo/issues/9)
 - [ 30-May ](https://github.com/mingyangSunshine/jobInfo/issues/10)
 - [ 4-Jun ](https://github.com/mingyangSunshine/jobInfo/issues/11)
+- [ 11-Jun ](https://github.com/mingyangSunshine/jobInfo/issues/12)
