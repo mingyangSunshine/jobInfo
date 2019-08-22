@@ -1,4 +1,4 @@
-# 实习/招聘信息
+# 实习/招聘信息 (Deprecated)
 
 ## CONCERN
 
@@ -37,7 +37,7 @@
 [高盛](https://www.goldmansachs.com/careers/index.html)
 
 
-## DIGEST
+## DIGEST (Deprecated)
 - [ 30-Apr ](https://github.com/mingyangSunshine/jobInfo/issues/1)
 - [ 5-May ](https://github.com/mingyangSunshine/jobInfo/issues/2)
 - [ 7-May ](https://github.com/mingyangSunshine/jobInfo/issues/3)

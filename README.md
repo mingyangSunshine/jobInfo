@@ -4,4 +4,4 @@ last update: 11-June
 
 
 - [part.1 留学归国落户上海](settle-down/readme.md)
-- [part.2 招聘信息](Job/readme.md)
+- ~~[part.2 招聘信息](Job/readme.md)~~
